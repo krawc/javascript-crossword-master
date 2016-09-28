@@ -85,7 +85,7 @@
     { "d":"D", "n":39, "x":4, "y":8, "a":"PE", "c":"Physical Education (Abbr.)" },
     { "d":"D", "n":42, "x":1, "y":9, "a":"HOMERS", "c":"If Simpson and the author of the Iliad and the Odyssey would come together, one could observe this" },
    
-    { "d":"D", "n":43, "x":6, "y":9, "a":"HOMOS", "c":"Many a not-hetero Sapien" },
+    { "d":"D", "n":43, "x":6, "y":9, "a":"HOMOS", "c":"Many a ______ Sapiens" },
     { "d":"D", "n":47, "x":10, "y":10, "a":"LEMON", "c":"Fruit needed to make a Beyonce album" },
     { "d":"D", "n":50, "x":9, "y":11, "a":"LOVE", "c":"This temporary insanity was only curable by marriage, according to Ambrose Bierce, forever according to Billy Ocean, while the Smiths claim it will bring us together" },
     { "d":"D", "n":51, "x":11, "y":11, "a":"SOIT", "c":"So (be) it in French" },
