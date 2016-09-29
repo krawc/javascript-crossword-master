@@ -91,7 +91,7 @@ function Crossw1rd(container_id) {
     this.grid = $('<div class="grid"></div>').appendTo(this.container);
 
     // set height and width
-    this.grid.attr('style','height:'+(this.height*28)+'px; width:'+(this.width*28)+'px;');
+    this.grid.attr('style','height:'+(this.height*15)+'px; width:'+(this.width*28)+'px;');
     
     // add rows and cols and store cells in this.cells
     this.cells = [];
