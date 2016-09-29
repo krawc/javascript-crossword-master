@@ -1,7 +1,8 @@
 .crossw1rd {
   border: solid 10px #5B2E89;
   padding:10px;
-height:800px;
+min-height: 800px;
+overflow: hidden;
 }
 
 .grid {
