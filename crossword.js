@@ -186,7 +186,7 @@ this.grid.attr('style','height:'+(this.height*28)+'px; width:'+(this.width*28)+'
     var w = this.grid.width();
     var ctrlH = this.container.find('.controls').height();
     this.container.width(h+padding+clueW);
-    this.container.height(h+6+ctrlH);
+    this.container.height(h+6+ctrlH-200);
     this.container.find('.clues').width(clueW);
     this.container.find('.clues').height(h);
     var labelh = $(".clues h4").height();
