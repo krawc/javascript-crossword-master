@@ -71,6 +71,7 @@ font-family: 'Roboto', sans-serif;
 .clues {
 font-family: 'Roboto', sans-serif;
   float: right;
+	line-height: 1.2;
 }
 .clues .across, .clues .down {
   background-color: #eee;
