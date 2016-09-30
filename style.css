@@ -3,6 +3,7 @@
   padding:30px;
 	overflow: hidden;
 	max-width: 800px;
+align-items: stretch;
 }
 
 .grid {
