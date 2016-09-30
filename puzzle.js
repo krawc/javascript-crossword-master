@@ -49,9 +49,9 @@
 
 
     { "d":"A", "n":49, "x":4, "y":11, "a":"DAMOCLES", "c":"There was a sharpened sword above his head / That hung there by the thinnest simple thread” - Chaucer" },
-    { "d":"A", "n":53, "x":0, "y":12, "a":"RE", "c":"To surrender" },
+    { "d":"A", "n":53, "x":0, "y":12, "a":"RE", "c":"Again with reference to an email subject" },
     { "d":"A", "n":55, "x":5, "y":12, "a":"SOPHOMORES", "c":"Class of 2019" },
-    { "d":"A", "n":58, "x":1, "y":13, "a":"REALISE", "c":"Flowers used in creation of beer" },
+    { "d":"A", "n":58, "x":1, "y":13, "a":"REALISE", "c":"Doh”! In British English" },
     { "d":"A", "n":61, "x":9, "y":13, "a":"VOIDED", "c":"Made null" },
     { "d":"A", "n":62, "x":0, "y":14, "a":"ASSENT", "c":"Agreement, or a very rude slow-talking tree" },
     { "d":"A", "n":63, "x":8, "y":14, "a":"MENTALS", "c":"Asylum residents, or cheeky lads" },
