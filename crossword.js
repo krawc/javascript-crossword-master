@@ -88,7 +88,7 @@ function Crossw1rd(container_id) {
   // draw the grid
   this.drawGrid = function() {
     // create grid container
-    this.grid = $('<div class="grid"></div>').appendTo(this.container);
+    this.grid = $('<div class="grid" style="width:800px; overflow:hidden;"></div>').appendTo(this.container);
 
     // set height and width
 this.grid.attr('style','height:'+(this.height*28)+'px; width:'+(this.width*28)+'px;');
