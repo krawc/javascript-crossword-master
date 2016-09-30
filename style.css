@@ -15,7 +15,7 @@
 
 .row {
   clear: left;
-/*   white-space: nowrap; */
+  white-space: nowrap;
 }
 
 .row > div {
