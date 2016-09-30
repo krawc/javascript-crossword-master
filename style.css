@@ -2,11 +2,9 @@
   border: solid 10px #5B2E89;
   padding:30px;
 	overflow: hidden;
-	max-width: 800px;
 	max-height: 800px;
 	margin-top: 50px;
 	margin-left: 50px;
-	display:flex;
 }
 
 .grid {
