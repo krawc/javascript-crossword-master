@@ -40,9 +40,7 @@ function Crossw1rd(container_id) {
     this.id = id; 
     this.container = $('<div class="crossw1rd"></div>').appendTo(c);
     this.populateClues(function() {
-	    	    		self.initDimensions();
-
-
+	    	    	self.initDimensions();
 			self.drawClues();
 	    		self.drawGrid();
 			self.drawControls();
