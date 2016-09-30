@@ -1,11 +1,11 @@
 .crossw1rd {
-  border: solid 10px #5B2E89;
+  border: none;
   padding:30px;
 	overflow: hidden;
 	max-height: 800px;
 	max-width: 1000px;
 	margin-top: 50px;
-	margin-left: 50px;
+	margin-left: 20px;
 }
 
 .grid {
