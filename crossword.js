@@ -334,9 +334,9 @@ this.grid.attr('style','height:'+(this.height*28)+'px; width:'+(this.width*28)+'
 
     // activate cell on click
     this.grid.find(".row > div").click(function(ev) {
+	$(this).focus();
       if (!$(this).hasClass('blank')) {
         self.activateCell(this);
-	 $(this).focus();
       }
     });
 
