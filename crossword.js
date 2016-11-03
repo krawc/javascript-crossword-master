@@ -336,6 +336,7 @@ this.grid.attr('style','height:'+(this.height*28)+'px; width:'+(this.width*28)+'
     this.grid.find(".row > div").click(function(ev) {
       if (!$(this).hasClass('blank')) {
         self.activateCell(this);
+	 $(this).focus();
       }
     });
 
@@ -343,6 +344,7 @@ this.grid.attr('style','height:'+(this.height*28)+'px; width:'+(this.width*28)+'
     for (var i=48; i<=90; i++) {
       //   numbers (48-57)         letters (65-90)
       if ((i >= 48 && i <= 57) || (i>=65 && i<= 90)) {
+	      
         $(document).bind('keypress', String.fromCharCode(i), function(e) {
           // insert the character
           var c = String.fromCharCode(Crossw1rd.keyCode(e)).toUpperCase();
